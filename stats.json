@@ -1,0 +1,27 @@
+[
+  {
+    "icon": "fas fa-briefcase",
+    "label": "Proyek Selesai",
+    "value": "32"
+  },
+  {
+    "icon": "fas fa-code",
+    "label": "Jam Coding",
+    "value": "4,800+"
+  },
+  {
+    "icon": "fas fa-users",
+    "label": "Instansi Klien",
+    "value": "12"
+  },
+  {
+    "icon": "fas fa-server",
+    "label": "API Dibangun",
+    "value": "40+"
+  },
+  {
+    "icon": "fas fa-clock",
+    "label": "Tahun Pengalaman",
+    "value": "5"
+  }
+]
